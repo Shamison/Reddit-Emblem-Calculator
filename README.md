@@ -2,7 +2,7 @@
 
 This program is open source and can be modified by anyone. If you would like to see your changes implemented into the official build please PM /u/Shamison on Reddit, or on Shamison on discord. This was made in Visual studio express 2010.
 
-For those of you that just wish to download the current calculator and have no wish to mess around with code, the useable folder.
+For those of you that just wish to download the current calculator and have no wish to mess around with code, the useable version folder is for you. Just download eveything in there and run setup.
 
 To use make sure to enter all of the fields.
 
