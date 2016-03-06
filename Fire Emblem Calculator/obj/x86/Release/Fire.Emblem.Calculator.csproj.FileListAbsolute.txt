@@ -1,0 +1,11 @@
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\obj\x86\Release\Fire Emblem Calculator.csproj.GenerateResource.Cache
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\bin\Release\Fire Emblem Calculatorv0.12.exe.manifest
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\bin\Release\Fire Emblem Calculatorv0.12.application
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\bin\Release\Fire Emblem Calculatorv0.12.exe
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\bin\Release\Fire Emblem Calculatorv0.12.pdb
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\obj\x86\Release\Fire Emblem Calculatorv0.12.exe.manifest
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\obj\x86\Release\Fire Emblem Calculatorv0.12.application
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\obj\x86\Release\Fire Emblem Calculatorv0.12.exe
+C:\Users\Griffin King\Documents\Visual Studio 2010\Projects\Fire Emblem Calculator\Fire Emblem Calculator\obj\x86\Release\Fire Emblem Calculatorv0.12.pdb
